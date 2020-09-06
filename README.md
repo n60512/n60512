@@ -1,5 +1,8 @@
 ## HELLO, I'm Sean Chen, a passionate data scientist from Taiwan.  👋
 
+### I am doing military service **NOW** (*20.09.08-21.01.03*) 💪
+### 保衛國家 ING (*20.09.08-21.01.03*) 💪
+
 I am a fresh graduate with a master degree in computer science. 😄
 
 I have 2 years of experience in data learning and now I am focusing on natural language processing and recommendation system as my disseration.
