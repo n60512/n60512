@@ -11,6 +11,9 @@ I have 2 years of experience in data learning and now I am focusing on natural l
 ![](https://raw.githubusercontent.com/n60512/n60512/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/n60512/n60512/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **n60512/n60512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
