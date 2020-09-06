@@ -13,6 +13,9 @@ I have 2 years of experience in data learning and now I am focusing on natural l
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [關於當兵 - 入伍前](https://n60512.github.io/2020/09/06/militarylife_0906/)
+- [使用 BERT-QA 建立自動閱讀理解模型](https://n60512.github.io/2020/08/27/BERT-QA/)
+- [[Python] pandas - apply function](https://n60512.github.io/2020/07/30/python.pandas.af/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
