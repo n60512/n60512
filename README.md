@@ -13,9 +13,9 @@ I have 2 years of experience in data learning and now I am focusing on natural l
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[心得]我生命中的一段歷險 |  The Ride of A Lifetime (Robert Iger)](https://n60512.github.io/2020/10/24/The-Ride-of-A-Lifetime/)
 - [[筆記] Attention Is All You Need (part 1)](https://n60512.github.io/2020/09/07/transformer/)
 - [關於當兵 - 入伍前](https://n60512.github.io/2020/09/06/militarylife_0906/)
-- [使用 BERT-QA 建立自動閱讀理解模型](https://n60512.github.io/2020/08/27/BERT-QA/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
