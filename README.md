@@ -1,10 +1,11 @@
-## HELLO, I'm Sean Chen, a passionate data scientist from Taiwan.  👋
+# Sean Chen
+## A learner in the fields of Deep Learning, Natural Language Processing, Recommender System • Taipei, Taiwan
 
-### I am doing military service **NOW** (*20.09.08-21.01.03*) 💪
-### 保衛國家 ING (*20.09.08-21.01.03*) 💪
+## M.S., in Computer Science and Engineering (Data Mining), NTNU 
 
-I am a fresh graduate with a master degree in computer science. 😄
+While exploring my passion for machine learning during my master’s degree, I have developed extensive knowledge and expertise in the field and gained valuable experience in various aspects of researches. 
 
+Besides collecting and examining large datasets, I am fully skilled in creating and implementing professional data forecasting models
 I have 2 years of experience in data learning and now I am focusing on natural language processing and recommendation system.
 
 ![](https://raw.githubusercontent.com/n60512/n60512/master/profile-summary-card-output/solarized/0-profile-details.svg)
@@ -13,22 +14,9 @@ I have 2 years of experience in data learning and now I am focusing on natural l
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [關於當兵 - 入伍前](https://n60512.github.io/2020/09/06/militarylife_0906/)
-- [使用 BERT-QA 建立自動閱讀理解模型](https://n60512.github.io/2020/08/27/BERT-QA/)
-- [[Python] pandas - apply function](https://n60512.github.io/2020/07/30/python.pandas.af/)
+- [DRN : A Deep Reinforcement Learning Framework for News Recommendation](https://n60512.github.io/2020/11/28/DRN/)
+- [[心得] 投資最重要的事 | The Most Important Thing Illuminated (Howerd Marks)](https://n60512.github.io/2020/11/08/The-Most-Important-Thing-Illuminated/)
+- [南訓中心 - 第一階段](https://n60512.github.io/2020/10/25/military-first-half/)
+- [[心得] 我生命中的一段歷險 |  The Ride of A Lifetime (Robert Iger)](https://n60512.github.io/2020/10/24/The-Ride-of-A-Lifetime/)
+- [[筆記] Attention Is All You Need (part 1)](https://n60512.github.io/2020/09/07/transformer/)
 <!-- BLOG-POST-LIST:END -->
-
-<!--
-**n60512/n60512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
