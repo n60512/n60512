@@ -3,6 +3,7 @@
 
 ## M.S., in Computer Science and Engineering (Data Mining), NTNU 
 
+
 While exploring my passion for machine learning during my master’s degree, I have developed extensive knowledge and expertise in the field and gained valuable experience in various aspects of researches. 
 
 Besides collecting and examining large datasets, I am fully skilled in creating and implementing professional data forecasting models
