@@ -1,13 +1,7 @@
 # Sean Chen
-## A learner in the fields of Deep Learning, Natural Language Processing, Recommender System • Taipei, Taiwan
+**A learner in the fields of Deep Learning, Natural Language Processing, Recommender System • Taipei, Taiwan**
 
-## M.S., in Computer Science and Engineering (Data Mining), NTNU 
-
-
-While exploring my passion for machine learning during my master’s degree, I have developed extensive knowledge and expertise in the field and gained valuable experience in various aspects of researches. 
-
-Besides collecting and examining large datasets, I am fully skilled in creating and implementing professional data forecasting models
-I have 2 years of experience in data learning and now I am focusing on natural language processing and recommendation system.
+**M.S., in Computer Science and Engineering (Data Mining), NTNU**
 
 ![](https://raw.githubusercontent.com/n60512/n60512/master/profile-summary-card-output/solarized/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/n60512/n60512/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
