@@ -1,5 +1,5 @@
 # Sean Chen
-**A learner in the fields of Deep Learning, Natural Language Processing, Recommender System • Taipei, Taiwan**
+**A learner in the fields of Deep Learning, Natural Language Processing, Recommendation System • Taipei, Taiwan**
 
 **M.S., in Computer Science and Engineering (Data Mining), NTNU**
 
