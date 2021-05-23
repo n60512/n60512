@@ -9,7 +9,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [gcp-dataproc](http://example.com/2021/05/22/dataproc-note-001/)
+- [[Note] Google Cloud Dataproc](http://example.com/2021/05/22/dataproc-note-001/)
 - [[Note] Kubernetes](http://example.com/2021/05/02/kubernetes-note-001/)
 - [Python 學習筆記 - 內建序列 (list & tuple)](http://example.com/2021/01/28/%E9%AB%98%E6%95%88%E8%83%BDpython-002-list-tuple/)
 - [Python 學習筆記 - 效能分析](http://example.com/2021/01/14/%E9%AB%98%E6%95%88%E8%83%BDpython-001/)
